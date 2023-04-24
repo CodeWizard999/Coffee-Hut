@@ -1,8 +1,9 @@
 # Coffee-Hut
 
-This project is a simple order form for a coffee shop where customers can select the size of the cup, the number of creams, the number of sugar, and the quantity of coffee they want.
+The Coffee Hut is a basic tool that enables coffee shop customers to customize their beverage by selecting cup size, cream and sugar amounts, and coffee quantity, with the cup size increasing and cream/sugar amounts adjusting according to the user's selection.
 
 # Getting Started
+
 To get started with this project, please follow these steps:
 
 Open your preferred web browser.
