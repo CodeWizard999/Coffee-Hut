@@ -1,0 +1,121 @@
+/*main body backgroung: 
+Note this background is bought from abdobe stockimages and does not require citation*/
+body{
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+/*main header for both pages*/
+#header{
+    background-color: white;
+    width: 100%;
+    height: 60px;
+
+}
+
+
+/*logo*/
+#header img {
+    float: left;
+}
+  
+/*brand name*/
+#header h1 {
+    position: relative;
+    top: 15px;
+    left: 10px;
+    color: #2F6E46;
+    margin: 0;
+}
+
+
+/*the index.php page */
+
+
+form{
+    padding-top: 30px;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+fieldset{
+    padding-top: 25px;
+    height: 45px;
+    background-color: rgba(247, 247, 247, 0.771);
+    border-radius: 20px 20px 20px 20px / 25px 25px 25px 25px;
+    border: solid #2F6E46 4px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+select,input{
+    border-radius: 20px 20px 20px 20px / 25px 25px 25px 25px;
+    color: #605e5e;
+    text-align: center;
+   
+}
+
+/*images displayed in the right corner of each feild set*/
+.img{
+    display: inline;
+    width:50px;
+    height:50px;
+    float: right;
+    border-radius: 50% 50% 50% 50%;;
+    padding-bottom: 10px;
+    
+}
+/*order button*/
+button{
+    float: right;
+    border-radius: 20px 20px 20px 20px / 25px 25px 25px 25px;
+    color: white;
+    font-size: 25px;
+    background-color: #2F6E46;
+    
+}
+
+/*the order.php page*/
+
+/*the main page that contains the whole output*/
+#main{
+    padding: 30px;
+    width:80%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: rgba(247, 247, 247, 0.771);
+    border-radius: 20px 20px 20px 20px / 25px 25px 25px 25px;
+    border: solid #2F6E46 4px;
+    font-size: 20px;
+    
+}
+
+/*the plus image*/
+.plus{
+    display: inline;
+    float: right;
+    height: 20px;
+    width: 20px;
+}
+
+/*table used to organize output*/
+table{
+    width:100%;
+    border-spacing: 0px;
+}
+td{
+    width: 25%;
+   text-align: center;
+}
+th{
+    text-align: center;
+    background-color: #2F6E46;
+    color: white;
+}
+
+
+
