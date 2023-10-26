@@ -7,7 +7,8 @@ The Coffee Hut is a basic tool that enables coffee shop customers to customize t
 To get started with this project, please follow these steps:
 
 Open your preferred web browser.
-Go to the following URL: http://imranfi.dev.fast.sheridanc.on.ca/GitHub/a5-fizza-imran/index.php
+download the folder 
+open with localhost 
 The order form will appear.
 Select the size of the cup, number of creams, number of sugar, and quantity of coffee that you want.
 Click on the "Place Order" button.
